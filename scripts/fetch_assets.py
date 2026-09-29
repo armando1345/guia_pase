@@ -25,7 +25,6 @@ HEADERS = {"User-Agent": "GuiaPASE/1.0 (educational static guide; local asset at
 
 COMMONS = {
     "harley": "File:Harley-Davidson Advertisement Hot Rod October 1970.jpg",
-    "gatorade": "File:Gatorade (14293776364) (Fuel Their Game Win From Within).jpg",
     "cocacola": "File:Coca-Cola 1915 Contour bottle.jpg",
     "hathaway": "File:1951BillBinzenHathawayCampaignAd.jpg",
     "mcdonalds": "File:Mc Donalds sign.jpg",
@@ -38,6 +37,13 @@ COMMONS = {
 }
 
 OTHER = {
+    "gatorade": {
+        "url": "https://digitalassets.pepsico.com/asset/82f384e5-a698-4dfd-99a4-ec56773e2c4e/Presentation-PNG/gatorade-lower-sugar-six-individuals.png",
+        "title": "Gatorade Lower Sugar campaign: six individuals",
+        "source": "https://www.pepsico.com/newsroom/press-releases/2026/gatorade-lower-sugar-brings-a-new-era-of-hydration-with-no-artificial-flavors-sweeteners-or-colors",
+        "author": "PepsiCo / Gatorade",
+        "license": "© PepsiCo",
+    },
     "volkswagen": {
         "url": "https://thedrum-media.imgix.net/thedrum-user-assets-prod/s3/images/original/16d521e8-2d84-4aa4-8ec6-61bf8f75ceb6-volkswagen-1959-michael-flickr-cc-by-nc-sa-2-0-1764257965.jpg?ar=default&auto=format&dpr=1&fit=max&w=1400",
         "description": "Volkswagen, anuncio Think Small (1959)",

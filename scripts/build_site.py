@@ -24,10 +24,10 @@ INTRO_HTML = """<p>Esta guía presenta principios prácticos para orientar las d
 TITLES = [
     "Definir primero qué debe significar el PASE",
     "Construir activos de marca reconocibles",
-    "Ser distintivo antes que obsesionarse con ser diferente",
-    "La consistencia debe formar parte del rebranding",
+    "Centrarse en los estudiantes (lo más importante)",
+    "Hacer las cosas siempre de la misma manera",
     "Construir un sistema, no una colección de marcas separadas",
-    "Diseñar para facilitar el acceso, no únicamente para comunicar",
+    "Hacer que la experiencia refleje la marca",
     "La publicidad debe entenderse rápidamente",
     "Captar atención, pero conseguir que esa atención llegue a PASE",
     "No hablar únicamente con quienes ya conocen PASE",
@@ -36,21 +36,15 @@ TITLES = [
     "Medir si la marca está entrando en la memoria, no únicamente si consigue interacciones",
 ]
 
+SOURCE_TITLES = {
+    3: "Ser distintivo antes que obsesionarse con ser diferente",
+    4: "La consistencia debe formar parte del rebranding",
+    6: "Diseñar para facilitar el acceso, no únicamente para comunicar",
+}
+
 # Each image follows the precise example sentence it illustrates. No visible
 # captions or replacement prose are introduced into the supplied guide.
 EXAMPLE_IMAGES = {
-    1: [
-        ("Algunas empresas, como Harley Davidson", ["harley.webp"]),
-        ("Gatorade no intenta asociarse", ["gatorade.webp"]),
-    ],
-    2: [
-        ("La botella de contorno", ["cocacola.webp"]),
-        ("En 1951, David Ogilvy", ["hathaway.webp"]),
-    ],
-    3: [("Los arcos dorados de McDonald's", ["mcdonalds.webp"])],
-    4: [("Nike puede cambiar drásticamente", ["nike.webp"])],
-    5: [("Google utiliza identidades", ["gmail.svg", "drive.svg", "maps.svg", "calendar.svg"])],
-    6: [("Amazon convirtió la reducción", ["amazon.webp"])],
     7: [("La publicidad clásica de Volkswagen", ["volkswagen.webp"])],
     8: [("Aquí vuelve a ser útil el hombre del parche.", ["hathaway.webp"])],
     9: [("Coca-Cola no dirige toda", ["cocacola.webp"])],
@@ -59,8 +53,6 @@ EXAMPLE_IMAGES = {
 }
 
 ALTS = {
-    "harley.webp": "Anuncio impreso de Harley-Davidson con motocicletas.",
-    "gatorade.webp": "Publicidad de Gatorade con el mensaje Fuel Their Game.",
     "cocacola.webp": "Botella de contorno de Coca-Cola.",
     "hathaway.webp": "Anuncio de Hathaway con el hombre del parche en el ojo.",
     "mcdonalds.webp": "Rótulo de McDonald's con los arcos dorados.",
@@ -123,18 +115,40 @@ REFERENCES = {
 }
 
 ARCHETYPES = [
-    ("El inocente", "Optimismo y sencillez", "Quiere hacer lo correcto y confiar en que las cosas pueden salir bien.", "¿Cómo haría PASE que pedir ayuda se sintiera simple y seguro?"),
-    ("La persona común", "Cercanía y pertenencia", "Habla sin pretensión y recuerda que nadie tiene que resolverlo todo a solas.", "¿PASE suena como alguien cercano a la experiencia estudiantil?"),
-    ("El héroe", "Esfuerzo y superación", "Invita a afrontar retos y desarrollar capacidades.", "¿Qué logros del estudiante puede acompañar PASE sin prometer resultados irreales?"),
-    ("El cuidador", "Apoyo y protección", "Pone el bienestar de las personas en el centro.", "¿Qué señales muestran que PASE escucha y acompaña?"),
-    ("El explorador", "Autonomía y descubrimiento", "Abre caminos para buscar nuevas posibilidades.", "¿Cómo puede PASE ayudar a descubrir recursos y opciones?"),
-    ("El rebelde", "Cambio y ruptura", "Cuestiona una norma que ya no sirve y propone otra forma de actuar.", "¿Hay una barrera estudiantil que PASE quiera desafiar?"),
-    ("El amante", "Vínculo y aprecio", "Da valor a la conexión personal y al sentido de cercanía.", "¿Cómo se expresa el cuidado sin perder claridad institucional?"),
-    ("El creador", "Imaginación y expresión", "Transforma ideas en algo propio y tangible.", "¿Qué espacios de creación puede habilitar PASE?"),
-    ("El bufón", "Alegría y ligereza", "Usa el humor y el juego para aliviar tensión y acercarse.", "¿En qué situaciones el humor ayudaría y en cuáles distraería?"),
-    ("El sabio", "Conocimiento y criterio", "Ayuda a comprender mejor antes de tomar una decisión.", "¿Cómo puede PASE ofrecer orientación clara y confiable?"),
-    ("El mago", "Transformación y posibilidad", "Hace visible un cambio que parecía difícil de imaginar.", "¿Qué transformación real puede facilitar PASE?"),
-    ("El gobernante", "Orden y responsabilidad", "Ofrece estructura, continuidad y confianza en el sistema.", "¿Qué procesos de PASE deben sentirse sólidos y previsibles?"),
+    ("El inocente", "Optimismo y sencillez", "Quiere hacer lo correcto y confiar en que las cosas pueden salir bien."),
+    ("La persona común", "Cercanía y pertenencia", "Habla sin pretensión y recuerda que nadie tiene que resolverlo todo a solas."),
+    ("El héroe", "Esfuerzo y superación", "Invita a afrontar retos y desarrollar capacidades."),
+    ("El cuidador", "Apoyo y protección", "Pone el bienestar de las personas en el centro."),
+    ("El explorador", "Autonomía y descubrimiento", "Abre caminos para buscar nuevas posibilidades."),
+    ("El rebelde", "Cambio y ruptura", "Cuestiona una norma que ya no sirve y propone otra forma de actuar."),
+    ("El amante", "Vínculo y aprecio", "Da valor a la conexión personal y al sentido de cercanía."),
+    ("El creador", "Imaginación y expresión", "Transforma ideas en algo propio y tangible."),
+    ("El bufón", "Alegría y ligereza", "Usa el humor y el juego para aliviar tensión y acercarse."),
+    ("El sabio", "Conocimiento y criterio", "Ayuda a comprender mejor antes de tomar una decisión."),
+    ("El mago", "Transformación y posibilidad", "Hace visible un cambio que parecía difícil de imaginar."),
+    ("El gobernante", "Orden y responsabilidad", "Ofrece estructura, continuidad y confianza en el sistema."),
+]
+
+ARCHETYPE_BRANDS = [
+    [("Coca-Cola", "cocacola.svg"), ("Dove", "dove.png")],
+    [("IKEA", "ikea.svg"), ("Ford", "ford.svg")],
+    [("Nike", "nike.svg"), ("Gymshark", "gymshark.png")],
+    [("Johnson & Johnson", "johnsonandjohnson.png"), ("TOMS", "toms.png")],
+    [("The North Face", "thenorthface.svg"), ("Jeep", "jeep.svg")],
+    [("Dr. Martens", "drmartens.png"), ("Red Bull", "redbull.svg")],
+    [("Victoria’s Secret", "victoriassecret.png"), ("Godiva", "godiva.png")],
+    [("Apple", "apple.svg"), ("Crayola", "crayola.png")],
+    [("Duolingo", "duolingo.svg"), ("Doritos", "doritos.png")],
+    [("Google", "google.svg"), ("CNN", "cnn.svg")],
+    [("Disney", "disney.png"), ("Dyson", "dyson.png")],
+    [("BMW", "bmw.svg"), ("Rolex", "rolex.png")],
+]
+
+ARCHETYPE_REFERENCES = [
+    ("Dopson, E. (2026, 17 de septiembre). <em>12 brand archetypes and how to choose yours</em>. Shopify.", "https://www.shopify.com/blog/brand-archetypes"),
+    ("Hower, D. (2026, 10 de mayo). <em>The 12 brand archetypes: A complete guide</em>. Sunup.", "https://studiosunup.com/blog/brand-archetypes-pro-cons/"),
+    ("Mark, M., & Pearson, C. S. (2001). <em>The hero and the outlaw: Building extraordinary brands through the power of archetypes</em>. McGraw-Hill.", "https://carolspearson.com/books-page/the-hero-and-the-outlaw-building-extraordinary-brands-through-the-power-of-archetypes"),
+    ("Thompson, J. (2026, 17 de agosto). <em>How to create a brand archetype for your business [+ brand examples and 2026 data]</em>. HubSpot.", "https://blog.hubspot.com/marketing/brand-archetypes"),
 ]
 
 
@@ -186,6 +200,7 @@ def page(title: str, body: str, prefix: str = "") -> str:
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#ffffff">
   <title>{esc(title)}</title>
+  <link rel="icon" type="image/svg+xml" href="{prefix}favicon.svg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap" rel="stylesheet">
@@ -202,7 +217,7 @@ def page(title: str, body: str, prefix: str = "") -> str:
 def split_content() -> tuple[list[str], str, str, str]:
     markers = []
     for number, title in enumerate(TITLES, 1):
-        match = re.search(rf"(?m)^{number}\. {re.escape(title)}\s*$", SOURCE)
+        match = re.search(rf"(?m)^{number}\. {re.escape(SOURCE_TITLES.get(number, title))}\s*$", SOURCE)
         if not match:
             raise ValueError(f"Missing point {number}: {title}")
         markers.append(match)
@@ -242,8 +257,6 @@ def render(raw: str, point: int | None = None) -> str:
             output.append(f'<h3>{esc(brand_text(line))}</h3>')
         elif line.startswith("“"):
             output.append(f'<blockquote>{esc(brand_text(line))}</blockquote>')
-        elif point == 1 and line == "A la hora de responder esta pregunta es común recurrir a los 12 arquetipos de personalidad de Carl Jung.":
-            output.append(f'<p><a class="inline-link" href="../arquetipos.html">{esc(brand_text(line))}</a></p>')
         elif line.startswith("•") or line.startswith("□"):
             output.append(f'<p class="list-line">{esc(brand_text(line))}</p>')
         else:
@@ -276,21 +289,33 @@ def index_page(purpose: str, checklist: str, central: str) -> str:
         )
         chapters.append(f'<section class="chapter"><h2>{heading}</h2><nav class="principle-grid" aria-label="{esc(heading)}">{links}</nav></section>')
     highlighted_title = esc(DOCUMENT_TITLE).replace("evidencia empírica", "<mark>evidencia empírica</mark>")
-    body = f'''<main class="page-wrap home" id="contenido"><h1>{highlighted_title}</h1><section class="intro"><h2>¿Para qué sirve esta guía?</h2><div class="prose">{INTRO_HTML}</div></section><div class="chapter-list" id="principios">{''.join(chapters)}</div><section class="appendix final-idea"><h2>IDEA CENTRAL DE LA GUÍA</h2><div class="prose">{render(central)}</div></section><details class="checklist"><summary><span>III. Checklist para tomar decisiones</span><span class="checklist__icon" aria-hidden="true">↘</span></summary><div class="prose">{render(checklist)}</div></details></main>'''
+    body = f'''<main class="page-wrap home" id="contenido"><h1>{highlighted_title}</h1><section class="intro"><h2>¿Para qué sirve esta guía?</h2><div class="prose">{INTRO_HTML}</div></section><div class="chapter-list" id="principios">{''.join(chapters)}</div></main>'''
     return page(DOCUMENT_TITLE, body)
 
 
 def point_page(number: int, body_text: str) -> str:
     title = f"{number}. {brand_text(TITLES[number - 1])}"
-    body = f'''<main class="page-wrap detail" id="contenido"><a class="back-link" href="../index.html#principios" data-back>← Volver</a><article><h1>{esc(title)}</h1><div class="prose">{render(body_text, number)}</div>{references_html(number)}</article></main>'''
+    override = ROOT / "content" / f"punto-{number:02d}.html"
+    article_html = override.read_text(encoding="utf-8") if override.is_file() else render(body_text, number)
+    refs = "" if number in {3, 4, 5, 6} else references_html(number)
+    body = f'''<main class="page-wrap detail" id="contenido"><a class="back-link" href="../index.html#principios" data-back>← Volver</a><article><h1>{esc(title)}</h1><div class="prose">{article_html}</div>{refs}</article></main>'''
     return page(title, body, "../")
 
 
 def archetypes_page() -> str:
     cards = []
-    for number, (name, essence, description, question) in enumerate(ARCHETYPES, 1):
-        cards.append(f'<article><span>{number:02d}</span><h2>{esc(name)}</h2><p class="archetype-essence">{esc(essence)}</p><p>{esc(brand_text(description))}</p><p>{esc(brand_text(question))}</p></article>')
-    body = f'''<main class="page-wrap archetypes" id="contenido"><a class="back-link" href="puntos/01.html" data-back>← Volver</a><h1>Los 12 arquetipos de marca</h1><p class="archetypes-intro">La idea de arquetipo proviene de Carl Jung. El sistema de doce aplicado a marcas se desarrolló posteriormente en el trabajo de Carol S. Pearson y Margaret Mark.</p><div class="archetype-list">{''.join(cards)}</div></main>'''
+    for number, (name, essence, description) in enumerate(ARCHETYPES, 1):
+        brands = "".join(
+            f'<li><span class="brand-logo"><img src="assets/img/marcas/{esc(file)}" alt="" loading="lazy" width="42" height="42"></span><span>{esc(brand)}</span></li>'
+            for brand, file in ARCHETYPE_BRANDS[number - 1]
+        )
+        cards.append(f'<article><span>{number:02d}</span><h2>{esc(name)}</h2><p class="archetype-essence">{esc(essence)}</p><p>{esc(description)}</p><div class="archetype-examples"><h3>Marcas que utilizan este arquetipo</h3><ul>{brands}</ul></div></article>')
+    refs = "".join(
+        f'<li>{citation} <a href="{esc(url)}" target="_blank" rel="noopener noreferrer">{esc(url)}</a></li>'
+        for citation, url in ARCHETYPE_REFERENCES
+    )
+    references = f'<section class="references archetypes-references" aria-labelledby="referencias-arquetipos"><h2 id="referencias-arquetipos">Referencias</h2><ol>{refs}</ol></section>'
+    body = f'''<main class="page-wrap archetypes" id="contenido"><a class="back-link" href="puntos/01.html" data-back>← Volver</a><h1>Los 12 arquetipos de marca</h1><p class="archetypes-intro">La idea de arquetipo proviene de Carl Jung. El sistema de doce aplicado a marcas se desarrolló posteriormente en el trabajo de Carol S. Pearson y Margaret Mark.</p><div class="archetype-list">{''.join(cards)}</div>{references}</main>'''
     return page("Los 12 arquetipos de marca", body)
 
 

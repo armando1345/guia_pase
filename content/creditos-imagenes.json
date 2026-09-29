@@ -105,5 +105,56 @@
     "description": "Volkswagen, anuncio Think Small (1959)",
     "credit": "Fotografía del anuncio: Michael / Flickr, CC BY-NC-SA 2.0 (según crédito de The Drum).",
     "source": "https://www.thedrum.com/news/iconic-ads-from-8-decades-of-ddb"
+  },
+  {
+    "key": "cocacola-silueta",
+    "file": "assets/img/cocacola-silueta.png",
+    "title": "Silueta blanca de botella sobre fondo rojo",
+    "source": "Archivo proporcionado por el usuario",
+    "author": "Archivo proporcionado por el usuario",
+    "license": "Procedencia no indicada por el usuario"
+  },
+  {
+    "key": "cocacola-escrituras",
+    "file": "assets/img/cocacola-escrituras.png",
+    "title": "Cuatro latas de Coca-Cola con marcas en distintos sistemas de escritura",
+    "source": "Archivo proporcionado por el usuario",
+    "author": "Archivo proporcionado por el usuario",
+    "license": "Procedencia no indicada por el usuario"
+  },
+  {
+    "key": "got-milk",
+    "file": "assets/img/got-milk.webp",
+    "title": "Fotograma del anuncio Aaron Burr de Got Milk?",
+    "source": "https://www.imdb.com/title/tt11163684/",
+    "asset_url": "https://m.media-amazon.com/images/M/MV5BMTEyZmM5YmQtMDU0YS00M2Q1LTk0MmItNGQ3ODNhMzFjZDIyXkEyXkFqcGc%40._V1_.jpg",
+    "author": "California Milk Processor Board / Goodby Silverstein & Partners",
+    "license": "© titulares del anuncio"
+  },
+  {
+    "key": "mcdonalds-sistema",
+    "file": "assets/img/mcdonalds-sistema.webp",
+    "title": "Páginas del sistema visual de McDonald’s",
+    "source": "https://turnerduckworth.com/work/mcdonalds",
+    "asset_url": "https://turnerduckworth.com/media/uploads/case_studies/projectblockmedia/McD_Guidelines_HR_y2ycDZX.jpg",
+    "author": "Turner Duckworth / McDonald’s",
+    "license": "© titulares de la pieza"
+  },
+  {
+    "key": "nasa-manual",
+    "file": "assets/img/nasa-manual.webp",
+    "title": "NASA Graphics Standards Manual (1976), página 10",
+    "source": "https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf",
+    "author": "NASA",
+    "license": "Obra del gobierno federal de Estados Unidos"
+  },
+  {
+    "key": "dicks-experiencia",
+    "file": "assets/img/dicks-experiencia.webp",
+    "title": "Gráfico de experiencia de Dick’s Last Resort",
+    "source": "https://dickslastresort.com/gallery/",
+    "asset_url": "https://dickslastresort.com/wp-content/uploads/2024/08/DLR_Website-Graphics_LandingPage_071524.jpg",
+    "author": "Dick’s Last Resort",
+    "license": "© Dick’s Last Resort"
   }
 ]

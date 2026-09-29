@@ -4,7 +4,42 @@ Todas las imágenes de los ejemplos se sirven desde `assets/img/`. Las fotograf�
 
 ## Portadas de los doce principios
 
-Los archivos `assets/img/principios/01.webp` a `12.webp` se generaron para esta guía con Magnific, modelo Recraft V4.1, y se optimizaron localmente. Son imágenes conceptuales originales; no reproducen anuncios ni marcas de terceros.
+Los archivos `assets/img/principios/01.webp`, `02.webp`, `04.webp`, `05.webp` y `07.webp` a `12.webp` se generaron para esta guía con Magnific, modelo Recraft V4.1. Las portadas `03.webp` y `06.webp` se sustituyeron con imágenes originales generadas mediante la herramienta integrada de generación de imágenes para reflejar los nuevos temas; sus instrucciones están en `content/prompts-portadas-03-06.md`. Todas se optimizaron localmente. Son imágenes conceptuales originales; no reproducen anuncios ni marcas de terceros.
+
+## Got Milk?, principio 3
+
+- Archivo local: `assets/img/got-milk.webp`
+- Pieza: fotograma del anuncio «Aaron Burr» (1993).
+- Crédito: California Milk Processor Board / Goodby Silverstein & Partners; imagen alojada en IMDb.
+- Fuente: https://www.imdb.com/title/tt11163684/
+- Archivo de origen: https://m.media-amazon.com/images/M/MV5BMTEyZmM5YmQtMDU0YS00M2Q1LTk0MmItNGQ3ODNhMzFjZDIyXkEyXkFqcGc%40._V1_.jpg
+
+## Sistema de McDonald's, principio 4
+
+- Archivo local: `assets/img/mcdonalds-sistema.webp`
+- Pieza: páginas del sistema de identidad visual con arcos, paleta, tipografía y aplicaciones.
+- Crédito: Turner Duckworth / McDonald's.
+- Fuente: https://turnerduckworth.com/work/mcdonalds
+- Archivo de origen: https://turnerduckworth.com/media/uploads/case_studies/projectblockmedia/McD_Guidelines_HR_y2ycDZX.jpg
+
+## Manual gráfico de la NASA, principio 4
+
+- Archivo local: `assets/img/nasa-manual.webp`
+- Pieza: página 10 del *NASA Graphics Standards Manual* (1976).
+- Crédito: NASA.
+- Fuente: https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf
+
+## Dick's Last Resort, principio 6
+
+- Archivo local: `assets/img/dicks-experiencia.webp`
+- Pieza: gráfico de la experiencia publicado por la cadena.
+- Crédito: Dick's Last Resort.
+- Fuente: https://dickslastresort.com/gallery/
+- Archivo de origen: https://dickslastresort.com/wp-content/uploads/2024/08/DLR_Website-Graphics_LandingPage_071524.jpg
+
+## Logotipos de los arquetipos
+
+Los 24 logotipos de `assets/img/marcas/` se muestran como ejemplos visuales. Los SVG proceden de [Simple Icons](https://github.com/simple-icons/simple-icons) y los PNG de los iconos públicos asociados a los sitios de las marcas, obtenidos mediante Google Favicon. La procedencia individual de cada archivo figura en `content/creditos-logos-arquetipos.json`. Las marcas y sus logotipos pertenecen a sus respectivos titulares; su presencia aquí no implica patrocinio ni respaldo.
 
 ## Harley
 
@@ -18,11 +53,11 @@ Los archivos `assets/img/principios/01.webp` a `12.webp` se generaron para esta 
 ## Gatorade
 
 - Archivo local: `assets/img/gatorade.webp`
-- Pieza: Gatorade (14293776364) (Fuel Their Game Win From Within).jpg
-- Autor/crédito: Mike Mozart from Funny YouTube, USA
-- Condición indicada por la fuente: CC BY 2.0
-- Fuente: https://commons.wikimedia.org/wiki/File:Gatorade_(14293776364)_(Fuel_Their_Game_Win_From_Within).jpg
-- Licencia: https://creativecommons.org/licenses/by/2.0
+- Pieza: campaña Gatorade Lower Sugar con personas practicando distintas actividades físicas (2026)
+- Autor/crédito: PepsiCo / Gatorade
+- Fuente: https://www.pepsico.com/newsroom/press-releases/2026/gatorade-lower-sugar-brings-a-new-era-of-hydration-with-no-artificial-flavors-sweeteners-or-colors
+- Imagen original: https://digitalassets.pepsico.com/asset/82f384e5-a698-4dfd-99a4-ec56773e2c4e/Presentation-PNG/gatorade-lower-sugar-six-individuals.png
+- Derechos: © PepsiCo
 
 ## Cocacola
 
@@ -32,6 +67,18 @@ Los archivos `assets/img/principios/01.webp` a `12.webp` se generaron para esta 
 - Condición indicada por la fuente: CC0
 - Fuente: https://commons.wikimedia.org/wiki/File:Coca-Cola_1915_Contour_bottle.jpg
 - Licencia: http://creativecommons.org/publicdomain/zero/1.0/deed.en
+
+## Silueta de Coca-Cola, principio 2
+
+- Archivo local: `assets/img/cocacola-silueta.png`
+- Pieza: imagen de la silueta blanca de la botella sobre fondo rojo, proporcionada por el usuario.
+- Se conserva el archivo original sin modificar.
+
+## Logotipo de Coca-Cola en distintos sistemas de escritura, principio 2
+
+- Archivo local: `assets/img/cocacola-escrituras.png`
+- Pieza: fotografía de cuatro latas de Coca-Cola con marcas en distintos sistemas de escritura, proporcionada por el usuario.
+- Se conserva el archivo original sin modificar.
 
 ## Hathaway
 

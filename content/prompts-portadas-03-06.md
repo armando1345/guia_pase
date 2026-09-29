@@ -1,0 +1,11 @@
+# Portadas renovadas para los principios 3 y 6
+
+Generadas con la herramienta integrada de generación de imágenes. La salida se guardó en `assets/img/principios/03.webp` y `assets/img/principios/06.webp`.
+
+## Principio 3
+
+Use case: stylized-concept. Asset type: landscape 16:9 editorial cover card for a premium Spanish guide on marketing principles. Primary request: visualize 'centrarse en los estudiantes'—genuinely listening to and understanding university students before deciding how to communicate. Scene: a refined conceptual still life of a single student's open notebook and pencil at a table, surrounded by subtle softly sculpted paper speech forms that seem to converge toward the notebook, suggesting attentive listening and student insight. Style: high-end editorial art direction, tactile paper and matte materials, sophisticated minimalism, crisp composition, soft natural studio light, white and very light gray background, deep purple #100135 and vivid violet #640FEA as restrained main accents, tiny green #0FFC7E detail. Wide landscape with visually rich central subject, no people, no logos, no words, no numbers, no watermarks. Match the premium minimal aesthetic of an editorial website card, not a generic stock photo.
+
+## Principio 6
+
+Use case: stylized-concept. Asset type: landscape 16:9 editorial cover card for a premium Spanish guide on marketing principles. Primary request: visualize 'hacer que la experiencia refleje la marca'—the same brand identity carried through a real service interaction. Scene: a carefully staged abstract service welcome desk on a white gallery-like set; a deep violet architectural arch and matching violet desk, notebook and signage shapes all share one visual language; two simple sculptural hands or silhouettes reach across the desk in a helpful greeting, expressing the human encounter behind the visual identity. Style: high-end editorial art direction, tactile matte paper and refined materials, premium minimalism, crisp shapes, gentle natural studio lighting. Palette white, #100135 deep purple, #640FEA violet, very tiny #0FFC7E detail. Wide cinematic landscape, visual clarity at thumbnail size. No text, no logo, no letters, no numbers, no watermark.
