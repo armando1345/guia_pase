@@ -8,11 +8,9 @@ Los archivos `assets/img/principios/01.webp`, `02.webp`, `04.webp`, `05.webp` y 
 
 ## Got Milk?, principio 3
 
-- Archivo local: `assets/img/got-milk.webp`
-- Pieza: fotograma del anuncio «Aaron Burr» (1993).
-- Crédito: California Milk Processor Board / Goodby Silverstein & Partners; imagen alojada en IMDb.
-- Fuente: https://www.imdb.com/title/tt11163684/
-- Archivo de origen: https://m.media-amazon.com/images/M/MV5BMTEyZmM5YmQtMDU0YS00M2Q1LTk0MmItNGQ3ODNhMzFjZDIyXkEyXkFqcGc%40._V1_.jpg
+- Archivo local: `assets/img/got-milk.png`
+- Pieza: imagen «got milk?» con salpicadura de leche, proporcionada por el usuario.
+- Se conserva el archivo original sin modificar. No se indicó su procedencia.
 
 ## Sistema de McDonald's, principio 4
 

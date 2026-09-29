@@ -124,12 +124,11 @@
   },
   {
     "key": "got-milk",
-    "file": "assets/img/got-milk.webp",
-    "title": "Fotograma del anuncio Aaron Burr de Got Milk?",
-    "source": "https://www.imdb.com/title/tt11163684/",
-    "asset_url": "https://m.media-amazon.com/images/M/MV5BMTEyZmM5YmQtMDU0YS00M2Q1LTk0MmItNGQ3ODNhMzFjZDIyXkEyXkFqcGc%40._V1_.jpg",
-    "author": "California Milk Processor Board / Goodby Silverstein & Partners",
-    "license": "© titulares del anuncio"
+    "file": "assets/img/got-milk.png",
+    "title": "Pieza «got milk?» con salpicadura de leche",
+    "source": "Archivo proporcionado por el usuario",
+    "author": "Archivo proporcionado por el usuario",
+    "license": "Procedencia no indicada por el usuario"
   },
   {
     "key": "mcdonalds-sistema",
