@@ -9,7 +9,17 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = (ROOT / "content" / "guia-original.txt").read_text(encoding="utf-8")
-DOCUMENT_TITLE = "Guía práctica para gestionar la marca del PASE y sus programas con base en la evidencia empírica del marketing."
+DOCUMENT_TITLE = "Guía práctica para gestionar la marca del PASE y sus programas con base en la evidencia empírica del marketing"
+INTRO_HTML = """<p>Esta guía presenta principios prácticos para orientar las decisiones de marca y publicidad del PASE.</p>
+<p>Su propósito es ofrecer criterios claros para construir una marca más reconocible y despertar mayor interés de los estudiantes por los servicios que ofrece.</p>
+<h3 class="intro-list-title">Leer esta guía servirá para:</h3>
+<ul class="intro-list">
+<li><strong>Saber en qué enfocarse al construir la marca del PASE</strong>, evitando invertir tiempo y recursos en aspectos secundarios u opciones que podrían acabar perjudicando el crecimiento de la marca.</li>
+<li><strong>Entender qué decisiones aparentemente pequeñas pueden terminar teniendo un gran impacto</strong> en la consistencia y reconocimiento de la marca.</li>
+<li><strong>Contar con criterios claros para evaluar decisiones de diseño, comunicación y publicidad</strong>, más allá del gusto personal.</li>
+<li><strong>Detectar errores que pueden fragmentar la identidad del PASE</strong> y dificultar que los estudiantes lo reconozcan.</li>
+<li><strong>Orientar la publicidad hacia lo que realmente importa: captar atención, comunicar con claridad y generar interés por los servicios del PASE.</strong></li>
+</ul>"""
 
 TITLES = [
     "Definir primero qué debe significar el PASE",
@@ -266,7 +276,7 @@ def index_page(purpose: str, checklist: str, central: str) -> str:
         )
         chapters.append(f'<section class="chapter"><h2>{heading}</h2><nav class="principle-grid" aria-label="{esc(heading)}">{links}</nav></section>')
     highlighted_title = esc(DOCUMENT_TITLE).replace("evidencia empírica", "<mark>evidencia empírica</mark>")
-    body = f'''<main class="page-wrap home" id="contenido"><h1>{highlighted_title}</h1><section class="intro"><h2>¿Para qué sirve esta guía?</h2><div class="prose">{render(purpose)}</div></section><div class="chapter-list" id="principios">{''.join(chapters)}</div><section class="appendix final-idea"><h2>IDEA CENTRAL DE LA GUÍA</h2><div class="prose">{render(central)}</div></section><details class="checklist"><summary><span>III. Checklist para tomar decisiones</span><span class="checklist__icon" aria-hidden="true">↘</span></summary><div class="prose">{render(checklist)}</div></details></main>'''
+    body = f'''<main class="page-wrap home" id="contenido"><h1>{highlighted_title}</h1><section class="intro"><h2>¿Para qué sirve esta guía?</h2><div class="prose">{INTRO_HTML}</div></section><div class="chapter-list" id="principios">{''.join(chapters)}</div><section class="appendix final-idea"><h2>IDEA CENTRAL DE LA GUÍA</h2><div class="prose">{render(central)}</div></section><details class="checklist"><summary><span>III. Checklist para tomar decisiones</span><span class="checklist__icon" aria-hidden="true">↘</span></summary><div class="prose">{render(checklist)}</div></details></main>'''
     return page(DOCUMENT_TITLE, body)
 
 
