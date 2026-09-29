@@ -4,7 +4,20 @@ Todas las imágenes de los ejemplos se sirven desde `assets/img/`. Las fotograf�
 
 ## Portadas de los doce principios
 
-Los archivos `assets/img/principios/01.webp`, `02.webp`, `04.webp`, `05.webp` y `07.webp` a `12.webp` se generaron para esta guía con Magnific, modelo Recraft V4.1. Las portadas `03.webp` y `06.webp` se sustituyeron con imágenes originales generadas mediante la herramienta integrada de generación de imágenes para reflejar los nuevos temas; sus instrucciones están en `content/prompts-portadas-03-06.md`. Todas se optimizaron localmente. Son imágenes conceptuales originales; no reproducen anuncios ni marcas de terceros.
+Los archivos `assets/img/principios/01.webp`, `02.webp`, `04.webp` y `05.webp` se generaron para esta guía con Magnific, modelo Recraft V4.1. Las portadas `03.webp` y `06.webp` se sustituyeron con imágenes originales generadas mediante la herramienta integrada de generación de imágenes para reflejar los nuevos temas; sus instrucciones están en `content/prompts-portadas-03-06.md`.
+
+Las portadas `07.webp` a `12.webp` se renovaron con Magnific, modelo Recraft V4.1 Pro, usando como referencias de estilo las imágenes de esta misma serie. Representan los seis principios mediante papel, geometría y una paleta de blanco, violeta y un detalle verde. Se optimizaron a WebP de 1200 × 675 píxeles. No reproducen anuncios ni marcas de terceros.
+
+Las imágenes conceptuales anteriores de los artículos 7, 9, 10, 11 y 12 se conservan en `assets/img/articulos/`. Fueron generadas originalmente con la herramienta integrada de generación de imágenes y ya no se usan como portadas. El artículo 8 conserva la fotografía del iPod que se acredita a continuación.
+
+## iPod de primera generación, principio 8
+
+- Archivo local: `assets/img/ipod-primera-generacion.webp`
+- Pieza: fotografía de un iPod de primera generación con rueda mecánica.
+- Autor: Alvy.
+- Fuente: https://commons.wikimedia.org/wiki/File:IPod_1Gen.jpg
+- Licencia: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+- Se convirtió a WebP y se redujo a 1200 × 900 píxeles para el sitio.
 
 ## Got Milk?, principio 3
 

@@ -28,29 +28,29 @@ TITLES = [
     "Hacer las cosas siempre de la misma manera",
     "Construir un sistema, no una colección de marcas separadas",
     "Hacer que la experiencia refleje la marca",
-    "La publicidad debe entenderse rápidamente",
-    "Captar atención, pero conseguir que esa atención llegue a PASE",
-    "No hablar únicamente con quienes ya conocen PASE",
-    "Mantener presencia durante el tiempo",
-    "Diferenciar construcción de marca y activación",
-    "Medir si la marca está entrando en la memoria, no únicamente si consigue interacciones",
+    "Los elementos más importantes para crear publicidad",
+    "Primero claridad, después creatividad",
+    "Llegar también a quienes todavía no participan",
+    "Repetir para permanecer disponible en la memoria",
+    "Mantener dos líneas: construcción de marca y activación",
+    "Medir para convertir la publicidad en un sistema de mejora continua",
 ]
 
 SOURCE_TITLES = {
     3: "Ser distintivo antes que obsesionarse con ser diferente",
     4: "La consistencia debe formar parte del rebranding",
     6: "Diseñar para facilitar el acceso, no únicamente para comunicar",
+    7: "La publicidad debe entenderse rápidamente",
+    8: "Captar atención, pero conseguir que esa atención llegue a PASE",
+    9: "No hablar únicamente con quienes ya conocen PASE",
+    10: "Mantener presencia durante el tiempo",
+    11: "Diferenciar construcción de marca y activación",
+    12: "Medir si la marca está entrando en la memoria, no únicamente si consigue interacciones",
 }
 
 # Each image follows the precise example sentence it illustrates. No visible
 # captions or replacement prose are introduced into the supplied guide.
-EXAMPLE_IMAGES = {
-    7: [("La publicidad clásica de Volkswagen", ["volkswagen.webp"])],
-    8: [("Aquí vuelve a ser útil el hombre del parche.", ["hathaway.webp"])],
-    9: [("Coca-Cola no dirige toda", ["cocacola.webp"])],
-    10: [("Marcas como Coca-Cola", ["cocacola.webp", "mcdonalds.webp", "nike.webp"])],
-    11: [("Nike puede realizar una campaña", ["nike.webp"])],
-}
+EXAMPLE_IMAGES = {}
 
 ALTS = {
     "cocacola.webp": "Botella de contorno de Coca-Cola.",
@@ -89,28 +89,6 @@ REFERENCES = {
     ],
     6: [
         ("Romaniuk, J., & Dunstone, L. (s. f.). <em>Sink or soar? Standing out in the e-commerce world</em>. Ehrenberg-Bass Institute for Marketing Science.", "https://marketingscience.info/news-and-insights/sink-or-soar-standing-out-in-the-e-commerce-world"),
-    ],
-    7: [
-        ("DDB. (s. f.). <em>About us</em>.", "https://www.ddb.com/about/"),
-        ("Pieters, R., & Wedel, M. (2004). Attention capture and transfer in advertising: Brand, pictorial, and text-size effects. <em>Journal of Marketing, 68</em>(2), 36–50.", "https://doi.org/10.1509/jmkg.68.2.36.27794"),
-    ],
-    8: [
-        ("Pieters, R., & Wedel, M. (2004). Attention capture and transfer in advertising: Brand, pictorial, and text-size effects. <em>Journal of Marketing, 68</em>(2), 36–50.", "https://doi.org/10.1509/jmkg.68.2.36.27794"),
-        ("Havas Media Network. (2024, 16 de septiembre). <em>Link between attention and drivers of brand outcomes revealed in new research</em>.", "https://havasmedianetwork.com/news/link-between-attention-and-drivers-of-brand-outcomes-revealed-in-new-research/"),
-        ("Ogilvy. (2024). <em>Ogilvy 75: 75 years of iconic campaigns</em>.", "https://www.ogilvy.com/ideas/ogilvy-75-75-years-iconic-campaigns"),
-    ],
-    9: [
-        ("Binet, L., & Field, P. (2007). <em>Marketing in the era of accountability</em>. Institute of Practitioners in Advertising.", "https://ipa.co.uk/knowledge/publications-reports/marketing-in-the-era-of-accountability"),
-    ],
-    10: [
-        ("Gelzinis, A., Kennedy, R., Beal, V., Hartnett, N., & Sharp, B. (2018). <em>What happens when brands stop advertising?</em> Ehrenberg-Bass Institute for Marketing Science.", "https://marketingscience.info/news-and-insights/what-happens-when-brands-stop-advertising"),
-    ],
-    11: [
-        ("Binet, L., & Field, P. (2013). <em>The long and the short of it: Balancing short and long-term marketing strategies</em>. Institute of Practitioners in Advertising.", "https://ipa.co.uk/knowledge/publications-reports/the-long-and-the-short-of-it-balancing-short-and-long-term-marketing-strategies"),
-    ],
-    12: [
-        ("Ehrenberg-Bass Institute for Marketing Science. (s. f.). <em>Distinctive asset measurement</em>.", "https://marketingscience.info/learn-with-us/commercial-research/distinctive-asset"),
-        ("Ehrenberg-Bass Institute for Marketing Science. (s. f.). <em>Identifying and prioritising Category Entry Points</em>.", "https://marketingscience.info/learn-with-us/commercial-research/identifying-and-prioritising-category-entry-points"),
     ],
 }
 
@@ -297,7 +275,7 @@ def point_page(number: int, body_text: str) -> str:
     title = f"{number}. {brand_text(TITLES[number - 1])}"
     override = ROOT / "content" / f"punto-{number:02d}.html"
     article_html = override.read_text(encoding="utf-8") if override.is_file() else render(body_text, number)
-    refs = "" if number in {3, 4, 5, 6} else references_html(number)
+    refs = "" if number in {3, 4, 5, 6, 7, 8, 9, 10, 11, 12} else references_html(number)
     body = f'''<main class="page-wrap detail" id="contenido"><a class="back-link" href="../index.html#principios" data-back>← Volver</a><article><h1>{esc(title)}</h1><div class="prose">{article_html}</div>{refs}</article></main>'''
     return page(title, body, "../")
 

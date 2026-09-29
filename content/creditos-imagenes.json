@@ -155,5 +155,102 @@
     "asset_url": "https://dickslastresort.com/wp-content/uploads/2024/08/DLR_Website-Graphics_LandingPage_071524.jpg",
     "author": "Dick’s Last Resort",
     "license": "© Dick’s Last Resort"
+  },
+  {
+    "key": "principio-07",
+    "file": "assets/img/principios/07.webp",
+    "title": "Cuatro componentes de la ecuación de persuasión",
+    "source": "Magnific, imagen original generada para esta guía",
+    "author": "Magnific / Recraft V4.1 Pro",
+    "license": "Imagen generada para este sitio"
+  },
+  {
+    "key": "principio-08",
+    "file": "assets/img/principios/08.webp",
+    "title": "Reproductor compacto en un bolsillo; ilustración conceptual, no fotografía histórica del iPod",
+    "source": "Magnific, imagen original generada para esta guía",
+    "author": "Magnific / Recraft V4.1 Pro",
+    "license": "Imagen generada para este sitio"
+  },
+  {
+    "key": "principio-09",
+    "file": "assets/img/principios/09.webp",
+    "title": "Alcance a estudiantes nuevos",
+    "source": "Magnific, imagen original generada para esta guía",
+    "author": "Magnific / Recraft V4.1 Pro",
+    "license": "Imagen generada para este sitio"
+  },
+  {
+    "key": "principio-10",
+    "file": "assets/img/principios/10.webp",
+    "title": "Repetición y memoria",
+    "source": "Magnific, imagen original generada para esta guía",
+    "author": "Magnific / Recraft V4.1 Pro",
+    "license": "Imagen generada para este sitio"
+  },
+  {
+    "key": "principio-11",
+    "file": "assets/img/principios/11.webp",
+    "title": "Construcción de marca y activación",
+    "source": "Magnific, imagen original generada para esta guía",
+    "author": "Magnific / Recraft V4.1 Pro",
+    "license": "Imagen generada para este sitio"
+  },
+  {
+    "key": "principio-12",
+    "file": "assets/img/principios/12.webp",
+    "title": "Comparación de variantes A/B",
+    "source": "Magnific, imagen original generada para esta guía",
+    "author": "Magnific / Recraft V4.1 Pro",
+    "license": "Imagen generada para este sitio"
+  },
+  {
+    "key": "ipod-primera-generacion",
+    "file": "assets/img/ipod-primera-generacion.webp",
+    "title": "iPod de primera generación con rueda mecánica",
+    "source": "https://commons.wikimedia.org/wiki/File:IPod_1Gen.jpg",
+    "author": "Alvy",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "key": "articulo-07",
+    "file": "assets/img/articulos/07.webp",
+    "title": "Cuatro elementos de la ecuación de persuasión",
+    "source": "Imagen conceptual original conservada del artículo",
+    "author": "OpenAI Image Generation",
+    "license": "Imagen generada para este sitio"
+  },
+  {
+    "key": "articulo-09",
+    "file": "assets/img/articulos/09.webp",
+    "title": "Alcance a estudiantes nuevos",
+    "source": "Imagen conceptual original conservada del artículo",
+    "author": "OpenAI Image Generation",
+    "license": "Imagen generada para este sitio"
+  },
+  {
+    "key": "articulo-10",
+    "file": "assets/img/articulos/10.webp",
+    "title": "Repetición y memoria",
+    "source": "Imagen conceptual original conservada del artículo",
+    "author": "OpenAI Image Generation",
+    "license": "Imagen generada para este sitio"
+  },
+  {
+    "key": "articulo-11",
+    "file": "assets/img/articulos/11.webp",
+    "title": "Construcción de marca y activación",
+    "source": "Imagen conceptual original conservada del artículo",
+    "author": "OpenAI Image Generation",
+    "license": "Imagen generada para este sitio"
+  },
+  {
+    "key": "articulo-12",
+    "file": "assets/img/articulos/12.webp",
+    "title": "Comparación de variantes A/B",
+    "source": "Imagen conceptual original conservada del artículo",
+    "author": "OpenAI Image Generation",
+    "license": "Imagen generada para este sitio"
   }
 ]

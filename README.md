@@ -1,6 +1,6 @@
 # Guía PASE
 
-Sitio estático editorial con los 12 principios de marca y publicidad del documento compartido, una página sobre los 12 arquetipos de marca y ejemplos visuales locales. La copia del documento original se conserva intacta. Al generar el sitio se aplican el titular y la introducción solicitados, así como los nuevos textos de los principios 1 al 6; se normalizan «PASE» y sus artículos en los demás principios. Cada principio incorpora una sección de referencias; la página de arquetipos es contenido redactado para este sitio.
+Sitio estático editorial con los 12 principios de marca y publicidad de los documentos compartidos, una página sobre los 12 arquetipos de marca y ejemplos visuales locales. Las copias de los textos entregados se conservan intactas. Al generar el sitio se aplican el titular y la introducción solicitados, así como las versiones más recientes de los doce principios. Cada principio incorpora una sección de referencias; la página de arquetipos es contenido redactado para este sitio.
 
 ## Abrir y publicar cuando corresponda
 
@@ -14,8 +14,8 @@ Sitio estático editorial con los 12 principios de marca y publicidad del docume
 - `index.html`: título, propósito e índice de tarjetas.
 - `puntos/01.html` a `puntos/12.html`: desarrollo de cada principio y sus referencias.
 - `arquetipos.html`: los doce arquetipos, con ejemplos visuales de marcas y referencias al final.
-- `assets/css/`, `assets/js/`, `assets/img/`: estilos, navegación de regreso y piezas visuales, incluidas las doce portadas generadas con Magnific.
-- `content/guia-original.txt`: copia literal del primer texto entregado. `content/punto-01.html` a `content/punto-06.html` conservan las versiones más recientes de esos principios; `content/puntos-03-06.txt` conserva el texto nuevo de los puntos 3 a 6. `scripts/build_site.py` genera las páginas HTML sin modificar el original.
+- `assets/css/`, `assets/js/`, `assets/img/`: estilos, navegación de regreso y piezas visuales. Las portadas 7 a 12 se generaron con Magnific siguiendo la dirección visual de las primeras seis.
+- `content/guia-original.txt`: copia literal del primer texto entregado. `content/punto-01.html` a `content/punto-12.html` conservan las versiones más recientes de cada principio; `content/puntos-03-06.txt` y `content/puntos-07-12.txt` conservan los textos nuevos de esos grupos. `scripts/build_points_07_12.py` distribuye las referencias finales entre los artículos correspondientes y `scripts/build_site.py` genera las páginas HTML.
 - `favicon.svg`: icono del sitio, incluido en las catorce páginas.
 - `CREDITOS.md`: procedencia y atribución de las imágenes. `content/creditos-imagenes.json` y `content/creditos-logos-arquetipos.json` conservan los datos de origen.
 
