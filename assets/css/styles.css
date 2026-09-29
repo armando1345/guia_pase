@@ -102,12 +102,20 @@ a { color: inherit; text-decoration: none; }
 .archetypes h1 { max-width: 920px; margin: 80px 0 27px; font-size: clamp(3.2rem, 6vw, 6rem); line-height: 1.06; letter-spacing: -.02em; }
 .archetypes-intro { max-width: 700px; margin: 0 0 85px; font-size: 1.12rem; line-height: 1.7; }
 .archetype-list { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 22px; }
-.archetype-list article { padding: 30px 34px 38px; background: var(--wash); border-radius: 18px; }
+.archetype-list article { display: flex; flex-direction: column; padding: 30px 34px 38px; background: var(--wash); border-radius: 18px; }
 .archetype-list article > span { color: var(--violet); font-size: .8rem; font-weight: 900; }
 .archetype-list h2 { margin: 22px 0 8px; font-size: 2.15rem; line-height: 1.15; letter-spacing: -.04em; }
 .archetype-list p { max-width: 440px; margin: 0 0 14px; font-size: .97rem; line-height: 1.6; }
 .archetype-essence { color: var(--violet); font-size: .76rem !important; font-weight: 900; letter-spacing: .08em; text-transform: uppercase; }
-.archetype-list p:last-child { margin-top: 25px; font-weight: 700; }
+.archetype-examples { margin-top: auto; padding-top: 32px; }
+.archetype-examples h3 { margin: 0 0 17px; font-size: .85rem; line-height: 1.35; font-weight: 900; letter-spacing: .025em; }
+.archetype-examples ul { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; margin: 0; padding: 0; list-style: none; }
+.archetype-examples li { display: flex; align-items: center; gap: 11px; min-width: 0; font-size: .92rem; line-height: 1.25; font-weight: 700; }
+.brand-logo { display: grid; flex: 0 0 58px; width: 58px; height: 58px; place-items: center; border-radius: 13px; background: #fff; }
+.brand-logo img { width: 39px; height: 39px; object-fit: contain; filter: grayscale(1); }
+.archetypes-references { max-width: 100%; margin-top: 108px; }
+.archetypes-references ol { columns: 2; column-gap: 52px; }
+.archetypes-references li { break-inside: avoid; }
 
 @media (max-width: 820px) {
   .principle-grid { grid-template-columns: 1fr; }
@@ -139,6 +147,7 @@ a { color: inherit; text-decoration: none; }
   .criterion { padding: 30px; }
   .archetypes h1 { margin-top: 60px; font-size: clamp(3rem, 9vw, 5rem); }
   .archetype-list { grid-template-columns: 1fr; }
+  .archetypes-references ol { columns: 1; }
 }
 
 @media (max-width: 460px) {
@@ -155,6 +164,7 @@ a { color: inherit; text-decoration: none; }
   .criterion { padding: 25px 22px; }
   .references li { font-size: .9rem; }
   .archetype-list article { padding: 26px; }
+  .archetype-examples ul { grid-template-columns: 1fr; }
 }
 
 @media (prefers-reduced-motion: reduce) {

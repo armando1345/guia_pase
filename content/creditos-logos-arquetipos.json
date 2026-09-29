@@ -1,0 +1,146 @@
+[
+  {
+    "archetype": "El inocente",
+    "brand": "Coca-Cola",
+    "file": "assets/img/marcas/cocacola.svg",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/cocacola.svg"
+  },
+  {
+    "archetype": "El inocente",
+    "brand": "Dove",
+    "file": "assets/img/marcas/dove.png",
+    "source": "https://www.google.com/s2/favicons?domain=dove.com&sz=256"
+  },
+  {
+    "archetype": "La persona común",
+    "brand": "IKEA",
+    "file": "assets/img/marcas/ikea.svg",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/ikea.svg"
+  },
+  {
+    "archetype": "La persona común",
+    "brand": "Ford",
+    "file": "assets/img/marcas/ford.svg",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/ford.svg"
+  },
+  {
+    "archetype": "El héroe",
+    "brand": "Nike",
+    "file": "assets/img/marcas/nike.svg",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/nike.svg"
+  },
+  {
+    "archetype": "El héroe",
+    "brand": "Gymshark",
+    "file": "assets/img/marcas/gymshark.png",
+    "source": "https://www.google.com/s2/favicons?domain=gymshark.com&sz=256"
+  },
+  {
+    "archetype": "El cuidador",
+    "brand": "Johnson & Johnson",
+    "file": "assets/img/marcas/johnsonandjohnson.png",
+    "source": "https://www.google.com/s2/favicons?domain=jnj.com&sz=256"
+  },
+  {
+    "archetype": "El cuidador",
+    "brand": "TOMS",
+    "file": "assets/img/marcas/toms.png",
+    "source": "https://www.google.com/s2/favicons?domain=toms.com&sz=256"
+  },
+  {
+    "archetype": "El explorador",
+    "brand": "The North Face",
+    "file": "assets/img/marcas/thenorthface.svg",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/thenorthface.svg"
+  },
+  {
+    "archetype": "El explorador",
+    "brand": "Jeep",
+    "file": "assets/img/marcas/jeep.svg",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/jeep.svg"
+  },
+  {
+    "archetype": "El rebelde",
+    "brand": "Dr. Martens",
+    "file": "assets/img/marcas/drmartens.png",
+    "source": "https://www.google.com/s2/favicons?domain=drmartens.com&sz=256"
+  },
+  {
+    "archetype": "El rebelde",
+    "brand": "Red Bull",
+    "file": "assets/img/marcas/redbull.svg",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/redbull.svg"
+  },
+  {
+    "archetype": "El amante",
+    "brand": "Victoria’s Secret",
+    "file": "assets/img/marcas/victoriassecret.png",
+    "source": "https://www.google.com/s2/favicons?domain=victoriassecret.com&sz=256"
+  },
+  {
+    "archetype": "El amante",
+    "brand": "Godiva",
+    "file": "assets/img/marcas/godiva.png",
+    "source": "https://www.google.com/s2/favicons?domain=godiva.com&sz=256"
+  },
+  {
+    "archetype": "El creador",
+    "brand": "Apple",
+    "file": "assets/img/marcas/apple.svg",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/apple.svg"
+  },
+  {
+    "archetype": "El creador",
+    "brand": "Crayola",
+    "file": "assets/img/marcas/crayola.png",
+    "source": "https://www.google.com/s2/favicons?domain=crayola.com&sz=256"
+  },
+  {
+    "archetype": "El bufón",
+    "brand": "Duolingo",
+    "file": "assets/img/marcas/duolingo.svg",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/duolingo.svg"
+  },
+  {
+    "archetype": "El bufón",
+    "brand": "Doritos",
+    "file": "assets/img/marcas/doritos.png",
+    "source": "https://www.google.com/s2/favicons?domain=doritos.com&sz=256"
+  },
+  {
+    "archetype": "El sabio",
+    "brand": "Google",
+    "file": "assets/img/marcas/google.svg",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/google.svg"
+  },
+  {
+    "archetype": "El sabio",
+    "brand": "CNN",
+    "file": "assets/img/marcas/cnn.svg",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/cnn.svg"
+  },
+  {
+    "archetype": "El mago",
+    "brand": "Disney",
+    "file": "assets/img/marcas/disney.png",
+    "source": "https://www.google.com/s2/favicons?domain=disney.com&sz=256"
+  },
+  {
+    "archetype": "El mago",
+    "brand": "Dyson",
+    "file": "assets/img/marcas/dyson.png",
+    "source": "https://www.google.com/s2/favicons?domain=dyson.com&sz=256"
+  },
+  {
+    "archetype": "El gobernante",
+    "brand": "BMW",
+    "file": "assets/img/marcas/bmw.svg",
+    "source": "https://github.com/simple-icons/simple-icons/blob/develop/icons/bmw.svg"
+  },
+  {
+    "archetype": "El gobernante",
+    "brand": "Rolex",
+    "file": "assets/img/marcas/rolex.png",
+    "source": "https://www.google.com/s2/favicons?domain=rolex.com&sz=256"
+  }
+]
