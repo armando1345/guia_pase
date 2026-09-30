@@ -12,7 +12,8 @@ SOURCE = (ROOT / "content" / "puntos-07-12.txt").read_text(encoding="utf-8-sig")
 
 HEADINGS = {
     7: {
-        "Aplicado al PASE", "Para encontrar esta variable", "También debe ser fácil actuar",
+        "Ejemplo de aplicación: Zarzuela USA", "Aplicado al PASE",
+        "Para encontrar esta variable", "También debe ser fácil actuar",
         "1. Problema o deseo urgente: sirve para captar la atención",
         "2. Promesa única: dar una razón para elegir",
         "3. Prueba incuestionable: demostrar que la promesa es cierta",
@@ -22,7 +23,7 @@ HEADINGS = {
     9: {"Aplicado al PASE", "Pregunta por responder"},
     10: {"Aplicado al PASE", "Pregunta por responder"},
     11: {
-        "1. Construcción de marca", "2. Activación", "Aplicado al PASE",
+        "1. Construcción de marca", "2. Respuesta directa", "Aplicado al PASE",
         "Línea de construcción de marca", "Línea de activación", "Preguntas por responder",
     },
     12: {
@@ -49,7 +50,7 @@ FIGURES = {
         "10.webp", "Motivo visual violeta repetido a lo largo de una galería.",
     ),
     11: (
-        "Aquí el resultado debería aparecer más rápidamente y puede medirse mediante acciones específicas.",
+        "A diferencia de la publicidad enfocada principalmente en construir la marca a largo plazo, aquí el objetivo es provocar una respuesta inmediata y medible.",
         "11.webp", "Dos líneas violetas complementarias recorren un espacio blanco.",
     ),
     12: (
@@ -57,9 +58,6 @@ FIGURES = {
         "12.webp", "Dos piezas visuales similares se presentan lado a lado para su comparación.",
     ),
 }
-
-REFERENCE_MAP = {7: (1, 2), 8: (3,), 9: (4, 5), 10: (6,), 11: (5,), 12: (7,)}
-
 
 def esc(value: str) -> str:
     return html.escape(value, quote=True)
@@ -73,6 +71,15 @@ def render_lines(number: int, lines: list[str]) -> str:
         if not line:
             i += 1
             continue
+        if line == "Referencias":
+            out.append('<section class="references" aria-labelledby="referencias"><h2 id="referencias">Referencias</h2><ol>')
+            for reference in lines[i + 1:]:
+                match = re.fullmatch(r"\d+\.\s+(.+)", reference.strip())
+                if not match:
+                    raise ValueError(f"Unexpected reference in point {number}: {reference}")
+                out.append(f"<li>{esc(match.group(1))}</li>")
+            out.append("</ol></section>")
+            break
         if number == 7 and line == "Objeción\tRespuesta":
             rows = [row.split("\t", 1) for row in lines[i + 1:i + 5]]
             assert len(rows) == 4 and all(len(row) == 2 for row in rows)
@@ -105,22 +112,14 @@ def render_lines(number: int, lines: list[str]) -> str:
 
 
 def main() -> None:
-    raw_body, raw_refs = SOURCE.rsplit("\nReferencias\n", 1)
-    markers = list(re.finditer(r"(?m)^([7-9]|1[0-2])\. .+$", raw_body))
-    assert [int(match.group(1)) for match in markers] == list(range(7, 13))
-    refs = {}
-    for row in raw_refs.splitlines():
-        match = re.match(r"^(\d+)\.\s+(.+)$", row)
-        if match:
-            refs[int(match.group(1))] = match.group(2)
-    assert set(refs) == set(range(1, 8))
-    for index, marker in enumerate(markers):
-        number = int(marker.group(1))
-        end = markers[index + 1].start() if index + 1 < len(markers) else len(raw_body)
-        lines = raw_body[marker.end():end].strip().splitlines()
-        body = render_lines(number, lines)
-        citations = "\n".join(f"<li>{esc(refs[ref])}</li>" for ref in REFERENCE_MAP[number])
-        body += f'\n<section class="references" aria-labelledby="referencias"><h2 id="referencias">Referencias</h2><ol>\n{citations}\n</ol></section>\n'
+    sections = [part.strip() for part in re.split(r"(?m)^← Volver\s*$", SOURCE) if part.strip()]
+    if len(sections) != 6:
+        raise ValueError(f"Expected six articles, found {len(sections)}")
+    for number, section in enumerate(sections, 7):
+        lines = [line.strip() for line in section.splitlines() if line.strip()]
+        if not lines[0].startswith(f"{number}. "):
+            raise ValueError(f"Unexpected title for point {number}: {lines[0]}")
+        body = render_lines(number, lines[1:])
         (ROOT / "content" / f"punto-{number:02d}.html").write_text(body, encoding="utf-8")
     print("Generated replacement article fragments for points 7–12.")
 

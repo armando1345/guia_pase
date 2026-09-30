@@ -1,13 +1,15 @@
+  
+← Volver
 7. Los elementos más importantes para crear publicidad
-No existe una única fórmula para crear publicidad que logre el objetivo para el cuál fue creada.
-Sin embargo, una de las herramientas más sencillas y útiles para pensar, construir y evaluar un anuncio es la Bencivenga Persuasion Equation, desarrollada por Gary Bencivenga a partir de su experiencia en publicidad de respuesta directa.
-Bencivenga explica que el modelo sirve para indicar en qué debe concentrarse el anuncio para superar las principales razones por las que una persona puede ignorarlo o rechazarlo.
-Para el PASE entender esto, implica tener un sistema que permita crear consistentemente piezas publicitarias que logren los objetivos del programa.
-Un sistema para que: si se necesitan más inscritos en determinado programa, el PASE pueda persuadir a más estudiantes para que se inscriban mediante publicidad.
-Bencivenga identifica cuatro objeciones como las más comunes que las personas suelen tener en general:
-“No me interesa.”
-“No veo ninguna diferencia.”
-“No me lo creo.”
+La publicidad debe medirse según los objetivos para los que fue creada.
+Si el PASE crea una campaña para incrementar las inscripciones a algún programa, entonces esa campaña debe ser juzgada según cuán eficaz fue para conseguir dicho objetivo.
+Dicho esto, no existe una única fórmula para crear publicidad que logre el objetivo para el cuál fue creada.
+Sin embargo, una de las herramientas más sencillas y útiles para construir y evaluar un anuncio es la Bencivenga Persuasion Equation, desarrollada por el maestro Gary Bencivenga a partir de su experiencia en publicidad de respuesta directa.
+Bencivenga es mundialmente conocido como “el mejor redactor persuasivo aún vivo”. En su ecuación, explica que el modelo sirve para indicar en qué debe concentrarse el anuncio para superar las principales razones por las que una persona puede ignorarlo o rechazarlo.
+Bencivenga identifica cuatro objeciones comunes en la mente de la gente al estar expuestos a casi cualquier publicidad:
+“No me interesa. Es solo un anuncio más tratando de convencerme de algo.”
+“No veo ninguna diferencia con lo que ofrecen otros.”
+“No me creo lo que me ofreces.”
 “Lo pensaré después.”
 Y propone una respuesta para cada una:
 Objeción	Respuesta
@@ -17,32 +19,31 @@ No me lo creo	Prueba incuestionable
 No voy a actuar ahora	Proposición fácil de aceptar
 Bencivenga resume así su ecuación:
 Problema urgente + Promesa única + Prueba incuestionable + Proposición fácil de aceptar = Persuasion
-Para entender bien el sistema, veamos los 4 puntos con detalle.
+Ejemplo de aplicación: Zarzuela USA
+Esta es una experiencia propia que muestra la efectividad de la Ecuación Bencivenga. En 2026 Zarzuela USA habilitó un programa de becas para cantantes, pero tras 2 meses solo 17 personas se habían inscrito, lo cuál estaba muy por debajo de los objetivos.
+Estuvo a mi cargo corregir el problema con una pieza publicitaria. Tras publicar mi anuncio, Zarzuela USA consiguió más de 30 inscritos en solo 4 días, sin ampliar el presupuesto publicitario y manteniendo todas las demás variables constantes.
+
+Después de esta muestra, pasemos a ver el funcionamiento de los 4 componentes del sistema.
 1. Problema o deseo urgente: sirve para captar la atención
 La primera barrera que las personas ponen ante la publicidad es:
 “Esto no me interesa.”
-Vemos cientos o miles de anuncios a nuestro alrededor cada día y la mayoría no nos interesan. Por eso el primer paso es captar la atención de la persona mediante un problema o deseo urgente que esta tenga.
+Bencivenga parte de la idea de que vemos cientos o miles de anuncios a nuestro alrededor cada día y la mayoría no nos interesan. Por eso el primer paso es captar la atención de la persona mediante un problema o deseo urgente que esta tenga.
 Los estudiantes están pensando en sus clases, parciales, amigos, pareja, trabajo, tareas y problemas.
-Por eso Bencivenga propone comenzar con algo que ya sea importante para la persona.
-Cuando utiliza la palabra problem, no se refiere únicamente a un problema negativo. Incluye:
-•	necesidades;
-•	deseos;
-•	preocupaciones;
-•	aspiraciones;
-•	dificultades;
-•	cosas que la persona quiere conseguir.
-Bencivenga lo resume con otra de sus máximas:
-“Los problemas son mercados.”
+Por eso el método propone comenzar con algo que ya sea importante para la persona.
+Cuando Bencivenga utiliza la palabra problema, abarca un espectro mucho más amplio que incluye:
+• necesidades;
+• deseos;
+• preocupaciones;
+• aspiraciones;
+• dificultades;
 Cuanto más importante sea para la persona el problema o deseo, mayor será la posibilidad de captar su interés.
 Aplicado al PASE
 Un anuncio podría empezar diciendo:
-Círculos de Estudio ya tiene nuevos horarios.
-Eso solamente nforma.
-Pero comienza desde lo que el PASE quiere comunicar.
+Nuevos horarios abiertos para Círculos de Estudio.
+Eso solamente informa. Pero comienza desde lo que el PASE quiere comunicar no necesariamente desde el problema del estudiante.
 Otra posibilidad sería:
-¿Hay una materia en la que saliste mal en el parcial anterior?
-Ahora el punto de partida es algo que podría estar ocurriendo en la vida del estudiante.
-No significa que todos los titulares tengan que ser preguntas.
+El programa que ayuda a los estudiantes a mejorar su rendimiento académico tiene nuevos horarios para adaptarse a tu agenda.
+Ahora el punto de partida es algo que le interesa al estudiante: “mejorar su rendimiento académico.”
 La regla es:
 el anuncio debería conectar primero con algo que importe al estudiante.
 Para encontrar esta variable
@@ -69,7 +70,7 @@ Pero probablemente existan muchas formas de obtener ayuda.
 La pregunta siguiente es:
 ¿Qué caracteriza específicamente la solución del PASE?
 Por ejemplo, podríamos decir en el caso de Círculos:
-“Estudia los temas que más se te complican acompañado por otro estudiante que ya cursó la materia.”
+“Estudia los temas que más se te complican apoyado por otro estudiante que ya cursó la materia.”
 La promesa ahora es más concreta.
 No se limita a decir:
 “Tenemos Círculos de Estudio.”
@@ -81,7 +82,7 @@ Preguntar:
 ¿Por qué debería recurrir a este servicio en lugar de no hacer nada o buscar otra alternativa?
 ¿Podemos expresar esa ventaja de manera concreta?
 3. Prueba incuestionable: demostrar que la promesa es cierta
-Demasiadas marcas afirman ser “las mejores” de su sector. La realidad es que la mayoría de gente no les cree y dicen que son “trucos” de marketing. 
+Demasiadas marcas afirman ser “las mejores” de su sector. La realidad es que la mayoría de gente no les cree y dicen que son “trucos” de marketing.
 Partiendo de esta idea, la tercera reacción que Bencivenga anticipa es:
 “No me lo creo.”
 En publicidad, cualquier organización puede afirmar:
@@ -93,29 +94,28 @@ Por eso Bencivenga concede tanta importancia a la prueba.
 La publicidad se vuelve más convincente cuando, en lugar de pedir a la persona que crea una afirmación, le ofrece razones para creerla.
 ¿Qué puede funcionar como prueba?
 Dependiendo del servicio:
-•	datos reales;
-•	resultados anteriores;
-•	testimonios verificables;
-•	demostraciones;
-•	fotografías;
-•	casos;
-•	números de participantes;
-•	credenciales;
-•	evidencia académica;
-•	ejemplos concretos;
-•	explicaciones del mecanismo.
+• datos reales;
+• resultados anteriores;
+• testimonios verificables;
+• demostraciones;
+• fotografías;
+• casos;
+• números de participantes;
+• evidencia académica;
+• ejemplos concretos;
+• explicaciones del mecanismo.
 Aplicado al PASE
 Supongamos que el anuncio promete:
 “Recibe acompañamiento para comprender mejor los temas que más se te dificultan.”
 Puede reforzarse utilizando evidencia real:
 “En alrededor del 75% de materias que impartimos, los estudiantes ven mejorías.”
 Naturalmente, solo deberían utilizarse datos que el PASE realmente pueda demostrar.
-La prueba no tiene que aparecer siempre como una enorme estadística.
-A veces basta una imagen real, una explicación concreta o un testimonio.
+La prueba no tiene que aparecer siempre como una estadística.
+A veces basta una imagen real, una explicación clara y verificable o un testimonio.
 Lo importante es evitar depender únicamente de afirmaciones.
 Para encontrar esta variable
 Preguntar:
-¿Por qué debería creerme el estudiante?
+¿Por qué debería creerme el estudiante que de verdad le puedo ayudar?
 ¿Qué evidencia tenemos?
 ¿Podemos demostrar lo que afirmamos?
 ¿Existe algún dato, caso, testimonio o hecho que haga nuestra promesa más creíble?
@@ -127,23 +127,23 @@ Y aun así la persona puede pensar:
 “Está interesante, pero ahorita quiero hacer otra cosa. Después lo veré.”
 Bencivenga llama a esto no decisión.
 Es la inercia natural de no hacer nada.
-La última parte de la ecuación consiste en presentar una proposición fácil de aceptar: hacer que el siguiente paso resulte suficientemente claro, sencillo y atractivo como para actuar.
+La última parte de la ecuación consiste en presentar una proposición fácil de aceptar: hacer que el siguiente paso resulte suficientemente claro, sencillo y atractivo como para actuar ahora.
 Aquí entra lo que podríamos llamar tensión de decisión:
 ¿Existe una buena razón para actuar ahora en lugar de dejarlo para después?
 En publicidad comercial puede ser:
-•	una fecha límite;
-•	disponibilidad limitada;
-•	una garantía;
-•	un bono;
-•	una oferta;
-•	reducción del riesgo.
-En el PASE probablemente sea algo mucho más sencillo:
+• una fecha límite;
+• disponibilidad limitada;
+• una garantía;
+• un proceso extremadamente sencillo;
+• una oferta;
+• reducción del riesgo
+.
+En el PASE probablemente sea algo simple de aplicar:
 “Inscripciones hasta el viernes.”
 “Los cupos son limitados.”
 “Escanea el QR y consulta los horarios.”
 “La actividad será este jueves.”
-La urgencia debe ser real.
-Inventar escasez o fechas falsas solamente para presionar a las personas destruye credibilidad.
+Importante: inventar escasez o fechas falsas solamente para presionar a las personas destruye credibilidad.
 También debe ser fácil actuar
 Bencivenga utiliza deliberadamente la expresión fácil de aceptar.
 No basta con pedir una acción.
@@ -158,25 +158,34 @@ Preguntar:
 ¿Qué queremos que haga el estudiante?
 ¿Está completamente claro?
 ¿Por qué debería hacerlo ahora?
-¿Podemos hacer el proceso más sencillo para los alumnos?
+¿Podemos hacer el proceso más sencillo para los estudiantes?
+Referencias
+1.	Bencivenga, G. Maxim #12: A Simple 4-Part Strategy for Driving Your Response UP! — The Bencivenga Persuasion Equation. Gary Bencivenga's Marketing Maxims. Bencivenga identifica cuatro objeciones —No Interest, No Difference, No Belief y No Decision— y las relaciona respectivamente con Urgent Problem, Unique Promise, Unquestionable Proof y User-Friendly Proposition.
+2.	Bencivenga, G. Maxim #17: How to Get Really Sharp at Judging Ads. Gary Bencivenga's Marketing Maxims. Retoma los cuatro componentes de la ecuación como criterios para evaluar publicidad.
 
+
+
+ 
+← Volver
 8. Primero claridad, después creatividad
-La publicidad puede ser creativa.
+La publicidad puede ser creativa, en este sentido:
 Puede sorprender.
 Puede hacer reír.
 Puede utilizar metáforas.
 Puede ser visualmente extraordinaria.
-Pero existe una condición previa:
+Pero existe una condición previa a todo eso:
 la gente tiene que entenderla.
+Un anuncio creativo que no se entiende fácilmente, necesita corregirse.
 Un error frecuente es comenzar intentando crear algo “creativo” y terminar produciendo un titular poético, un concepto extraño o una imagen visualmente atractiva cuyo significado solo comprende el equipo que la creó.
-La creatividad debería ayudar a que una idea sea:
-más interesante, más memorable o más atractiva.
-No debería convertirla en un acertijo.
+La creatividad debería ayudar a que una idea sea más interesante, más memorable o más atractiva.
+Lo que no debe hacer la creatividad es convertir esa idea en un acertijo.
+Por eso el PASE debe procurar ser claro. Que cualquier estudiante entienda lo que intenta comunicar.
 Ejemplo real: Apple
 Cuando Apple presentó el primer iPod en 2001, el aparato podía describirse mediante muchas especificaciones técnicas.
 Tenía 5 GB de almacenamiento, FireWire y diferentes formatos de audio.
-Pero Apple concentró su lanzamiento alrededor de una idea que cualquiera podía comprender:
+Pero Apple no habló de esas cosas que nadie entendía, en su lugar concentró su lanzamiento alrededor de una idea sencilla:
 “1,000 canciones en tu bolsillo.”
+ 
 El titular aparecía en el propio comunicado oficial de lanzamiento.
 La frase seguía siendo creativa.
 Pero sobre todo era clara.
@@ -185,45 +194,55 @@ Aplicado al PASE
 En cada publicidad debe quedar claro:
 ¿Qué queremos que entienda el estudiante?
 Una vez definida esa idea, puede buscarse una forma creativa de expresarla.
-No al revés.
 Pregunta clave muy importante
 Mostrar la publicidad durante unos segundos a una persona que no haya participado en su creación y preguntar:
 “¿Qué entendiste?”
 Si necesita una explicación posterior, todavía falta claridad.
+Referencias
+1.	Apple. (2001). Apple Presents iPod. Comunicado oficial de lanzamiento del primer iPod, presentado alrededor de la idea “1,000 songs in your pocket”.
+
+
+ 
+← Volver
 9. Llegar también a quienes todavía no participan
 Para conseguir que más estudiantes utilicen los servicios del PASE es necesario llegar a estudiantes nuevos.
 Esto parece obvio, pero muchas organizaciones terminan obsesionándose con otras métricas que no necesariamente aportan al objetivo. Cosas como:
-•	seguidores actuales;
-•	antiguos participantes;
-•	personas que ya conocen sus servicios;
-•	los mismos grupos y comunidades.
-Los estudios de crecimiento encuentran que adquirir nuevos compradores tiene un papel mucho mayor que intentar crecer únicamente reduciendo la pérdida de los actuales. El Ehrenberg-Bass Institute resume que, en los datos analizados, la adquisición resulta aproximadamente dos veces más importante que la reducción de defecciones para explicar crecimiento el crecimiento de una marca.
+• seguidores actuales;
+• antiguos participantes;
+• personas que ya conocen sus servicios;
+Los estudios de crecimiento de marca, encuentran que adquirir nuevos usuarios tiene un papel mucho mayor que intentar crecer únicamente reduciendo la pérdida de los actuales. El Ehrenberg-Bass Institute resume que, en los datos analizados, la adquisición resulta aproximadamente dos veces más importante que la reducción de abandonos para explicar el crecimiento de una marca.
 El PASE evidentemente no busca participación de mercado comercial.
-Pero el principio puede adaptarse:
+Pero el principio al igual que en casos anteriores, puede adaptarse:
 si queremos aumentar la participación, necesitamos incorporar estudiantes que todavía no participan.
+ 
 Aplicado al PASE
-No basta con publicar para quienes ya siguen las cuentas.
+Es necesario hablarle a los que podrían necesitar los servicios del PASE y actualmente están fuera del ecosistema de marca.
 Siguiendo la lógica del Ehrenberg-Bass Institute debería priorizarse:
-•	estudiantes de nuevo ingreso;
-•	estudiantes que nunca han oído hablar del PASE;
-•	estudiantes que conocen el nombre pero desconocen sus servicios;
-•	estudiantes que podrían necesitar ayuda pero actualmente buscan soluciones en otros lugares.
+• estudiantes de nuevo ingreso cuando aplique;
+• estudiantes que nunca han oído hablar del PASE;
+• estudiantes que conocen el nombre pero desconocen sus servicios;
+• estudiantes que podrían necesitar ayuda pero actualmente buscan soluciones por su cuenta o en otros lugares.
 La publicidad debería preguntarse:
 ¿Cómo llegamos a alguien que todavía no está dentro?
-Binet y Field con otras investigaciones llegan a una conclusión similar desde sus estudios sobre efectividad: uno de sus principios es hablar con todos los potenciales compradores, en lugar de concentrarse excesivamente en segmentos estrechos.
 Pregunta por responder
 Para cada campaña:
 ¿Qué porcentaje de nuestro esfuerzo está llegando a estudiantes que todavía no participan?
-El objetivo no es abandonar a quienes ya conocen al PASE.
-Es evitar que toda la comunicación permanezca encerrada dentro del mismo grupo.
+El objetivo no es evitar que toda la comunicación permanezca encerrada dentro del mismo grupo.
+Referencias
+1.	Ehrenberg-Bass Institute for Marketing Science. Effective brand growth: Acquisition or retention? Resume evidencia sobre Double Jeopardy, penetración, adquisición y crecimiento; señala que la adquisición tiene un peso aproximadamente dos veces mayor que la reducción de defecciones en los patrones estudiados.
+2.	Binet, L., & Field, P. (2013). The Long and the Short of It. Institute of Practitioners in Advertising. Entre sus principios se encuentran hablar con todos los potenciales compradores, integrar construcción de marca y activación y medir efectos de corto y largo plazo.
+
+ 
+← Volver
 10. Repetir para permanecer disponible en la memoria
 Publicar algo una vez no significa que la gente lo recuerde.
 Un metaanálisis de Susanne Schmidt y Martin Eisend publicado en Journal of Advertising examinó estudios sobre frecuencia publicitaria.
 En los experimentos analizados, ver un anuncio varias veces ayudaba a que las personas lo recordaran mejor.
-El recuerdo seguía aumentando hasta alrededor de ocho exposiciones, y la actitud hacia la marca mejoraba hasta cerca de diez exposiciones.
+El recuerdo seguía aumentando hasta alrededor de ocho exposiciones, y la opinión hacia la marca mejoraba hasta cerca de diez exposiciones.
 También se encontró algo importante: si pasa demasiado tiempo sin volver a ver el anuncio, parte de ese efecto se pierde.
 En términos sencillos:
 repetir ayuda a recordar, pero la memoria necesita mantenerse con el tiempo. Una sola exposición suele ser una base muy débil para construir memoria.
+ 
 Aplicado al PASE
 Si el PASE quiere asociarse con:
 ayuda académica;
@@ -231,35 +250,34 @@ orientación;
 acompañamiento;
 esas ideas necesitan aparecer repetidamente.
 La repetición tampoco significa publicar exactamente la misma imagen una y otra vez.
-Puede mantenerse la misma idea con diferentes ejecuciones:
-Una publicación presenta el problema.
-Otra explica el servicio.
-Otra utiliza un testimonio.
-Otra recuerda los horarios.
-Otra muestra una experiencia real.
-Otra anuncia que todavía existen cupos.
-Contenido diferente.
-La misma asociación se refuerza.
+Puede mantenerse la misma idea con diferentes ejecuciones.
 Pregunta por responder
 “¿Lo estamos comunicando con suficiente continuidad para que el estudiante pueda recordarlo cuando aparezca la necesidad?”
+Referencias
+1.	Schmidt, S., & Eisend, M. (2015). Advertising Repetition: A Meta-Analysis on Effective Frequency in Advertising. Journal of Advertising, 44(4), 415–428. El metaanálisis encontró que el recuerdo continuaba aumentando hasta al menos alrededor de ocho exposiciones en condiciones experimentales y que los efectos de repetición disminuían con el tiempo.
+
+
+ 
+← Volver
 11. Mantener dos líneas: construcción de marca y activación
-La publicidad puede realizar dos funciones diferentes. Y ambas funciones deben ser atendidas:
-1.	Construcción de marca
-Busca conseguir que más estudiantes:
-•	conozcan al PASE;
-•	comprendan qué hace;
-•	reconozcan su identidad;
-•	recuerden sus servicios;
-•	lo relacionen con determinadas necesidades.
-Sus efectos pueden aparecer progresivamente.
-2.	Activación
-Busca conseguir una respuesta inmediata:
-inscríbete;
-escanea;
-consulta;
-asiste;
-participa.
-Aquí el resultado debería aparecer más rápidamente y puede medirse mediante acciones específicas.
+La publicidad puede realizar dos funciones diferentes y ambas deben ser atendidas:
+1. Construcción de marca
+Se foco principal debe ser la creación de disponibilidad mental. La disponibilidad mental es qué tan fácil es para una persona recordar una marca cuando necesita comprar o elegir algo.
+Por ejemplo, si alguien piensa en “alguien que me apoye cuando me siento desmotivado en el ciclo” y el PASE aparece rápidamente en su mente, entonces el PASE tiene disponibilidad mental para esa situación.
+En términos simples: una marca tiene mayor disponibilidad mental cuando viene a la mente con facilidad en el momento adecuado.
+Por eso la publicidad de construcción de marca debe procurar qué:
+
+• conozcan al PASE;
+• comprendan qué hace;
+• reconozcan su identidad;
+• recuerden sus servicios;
+• lo relacionen con determinadas necesidades.
+Sus efectos de este tipo de publicidad no siempre son inmediatos, pero cuando las personas conocen una marca tienden a confiar más en ella y cuando la marca ha desarrollado disponibilidad mental a la larga es más probable que la elijan.
+2. Respuesta directa
+La publicidad de respuesta directa busca que la persona haga algo concreto después de ver el anuncio.
+Por ejemplo: comprar, registrarse, pedir información, llamar, descargar algo o reservar una cita.
+A diferencia de la publicidad enfocada principalmente en construir la marca a largo plazo, aquí el objetivo es provocar una respuesta inmediata y medible.
+ 
 Aplicado al PASE
 Línea de construcción de marca
 Ejemplo:
@@ -276,15 +294,21 @@ Preguntas por responder
 Antes de crear cualquier publicidad:
 ¿Estamos construyendo marca o buscando una acción inmediata?
 Definirlo antes de diseñar también ayuda a decidir posteriormente qué resultado medir.
+Referencias
+1.	Binet, L., & Field, P. (2013). The Long and the Short of It. Institute of Practitioners in Advertising. Entre sus principios se encuentran hablar con todos los potenciales compradores, integrar construcción de marca y activación y medir efectos de corto y largo plazo.
+
+
+ 
+← Volver
 12. Medir para convertir la publicidad en un sistema de mejora continua
-Medir permite dejar de depender únicamente de opiniones.
-Sin medición, una reunión puede terminar así:
+Medir permite dejar de depender únicamente de opiniones y permite que la publicidad sea más eficaz en el futuro.
+Sin medición, algo muy común es que en una reunión las personas digan:
 “A mí me gusta más el anuncio A.”
 “Pues a mí el B.”
-“Creo que este color funciona mejor.”
+“Creo que esta imagen no debería ir aquí.”
 “Yo prefiero este titular.”
-Con medición aparece una pregunta mejor:
-“¿Cuál funcionó mejor?”
+Con medición aparece algo mejor:
+“¿Qué ha funcionado mejor en el pasado?”
 El ciclo debería ser:
 Hipótesis → publicidad → medición → aprendizaje → nueva prueba.
 Y volver a empezar.
@@ -295,32 +319,33 @@ Todo se mantiene igual salvo una variable:
 A: un titular.
 B: otro titular.
 Después se compara cuál consigue mejor el resultado previamente definido.
+ 
 También puede probarse:
-•	una imagen;
-•	una promesa;
-•	una prueba;
-•	un formato;
-•	una sector de una página web;
-•	un formulario.
+• una imagen;
+• una promesa;
+• una prueba;
+• un formato;
+• una sector de una página web;
+• un formulario.
 La clave es no cambiar cinco cosas simultáneamente, porque después resulta difícil saber qué produjo la diferencia.
 Medir según el objetivo
 No todas las piezas deberían medirse igual.
 Si es activación
 Interesan variables como:
-•	clics;
-•	QR escaneados;
-•	registros;
-•	formularios completados;
-•	asistencia;
-•	costo por resultado, cuando exista inversión publicitaria.
+• clics;
+• QR escaneados;
+• registros;
+• formularios completados;
+• asistencia;
+• costo por resultado, cuando exista inversión publicitaria.
 Si es construcción de marca
 Interesan otras:
-•	reconocimiento;
-•	recuerdo;
-•	conocimiento del PASE;
-•	asociaciones;
-•	identificación de activos visuales;
-•	consideración o intención de utilizar servicios.
+• reconocimiento;
+• recuerdo;
+• conocimiento del PASE;
+• asociaciones;
+• identificación de activos visuales;
+• consideración o intención de utilizar servicios.
 Preguntas por responder
 Antes de lanzar cualquier campaña responder:
 1. ¿Qué queremos conseguir?
@@ -328,10 +353,4 @@ Antes de lanzar cualquier campaña responder:
 3. ¿Qué podemos comparar o poner a prueba?
 4. ¿Qué aprenderemos para la próxima campaña?
 Referencias
-1.	Bencivenga, G. Maxim #12: A Simple 4-Part Strategy for Driving Your Response UP! — The Bencivenga Persuasion Equation. Gary Bencivenga's Marketing Maxims. Bencivenga identifica cuatro objeciones —No Interest, No Difference, No Belief y No Decision— y las relaciona respectivamente con Urgent Problem, Unique Promise, Unquestionable Proof y User-Friendly Proposition.
-2.	Bencivenga, G. Maxim #17: How to Get Really Sharp at Judging Ads. Gary Bencivenga's Marketing Maxims. Retoma los cuatro componentes de la ecuación como criterios para evaluar publicidad.
-3.	Apple. (2001). Apple Presents iPod. Comunicado oficial de lanzamiento del primer iPod, presentado alrededor de la idea “1,000 songs in your pocket”.
-4.	Ehrenberg-Bass Institute for Marketing Science. Effective brand growth: Acquisition or retention? Resume evidencia sobre Double Jeopardy, penetración, adquisición y crecimiento; señala que la adquisición tiene un peso aproximadamente dos veces mayor que la reducción de defecciones en los patrones estudiados.
-5.	Binet, L., & Field, P. (2013). The Long and the Short of It. Institute of Practitioners in Advertising. Entre sus principios se encuentran hablar con todos los potenciales compradores, integrar construcción de marca y activación y medir efectos de corto y largo plazo.
-6.	Schmidt, S., & Eisend, M. (2015). Advertising Repetition: A Meta-Analysis on Effective Frequency in Advertising. Journal of Advertising, 44(4), 415–428. El metaanálisis encontró que el recuerdo continuaba aumentando hasta al menos alrededor de ocho exposiciones en condiciones experimentales y que los efectos de repetición disminuían con el tiempo.
-7.	Gordon, B. R., Zettelmeyer, F., Bhargava, N., & Chapsky, D. (2019). A Comparison of Approaches to Advertising Measurement: Evidence from Big Field Experiments at Facebook. Marketing Science, 38(2), 193–225. Comparó métodos observacionales con 15 experimentos publicitarios aleatorios que reunían aproximadamente 500 millones de observaciones y 1,600 millones de impresiones.
+1.	Gordon, B. R., Zettelmeyer, F., Bhargava, N., & Chapsky, D. (2019). A Comparison of Approaches to Advertising Measurement: Evidence from Big Field Experiments at Facebook. Marketing Science, 38(2), 193–225. Comparó métodos observacionales con 15 experimentos publicitarios aleatorios que reunían aproximadamente 500 millones de observaciones y 1,600 millones de impresiones.
