@@ -275,7 +275,7 @@ def point_page(number: int, body_text: str) -> str:
     title = f"{number}. {brand_text(TITLES[number - 1])}"
     override = ROOT / "content" / f"punto-{number:02d}.html"
     article_html = override.read_text(encoding="utf-8") if override.is_file() else render(body_text, number)
-    refs = "" if number in {3, 4, 5, 6, 7, 8, 9, 10, 11, 12} else references_html(number)
+    refs = "" if number in {2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12} else references_html(number)
     body = f'''<main class="page-wrap detail" id="contenido"><a class="back-link" href="../index.html#principios" data-back>← Volver</a><article><h1>{esc(title)}</h1><div class="prose">{article_html}</div>{refs}</article></main>'''
     return page(title, body, "../")
 
